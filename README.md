@@ -1,7 +1,9 @@
 WealthWise Portfolio Tracker — Backend (FastAPI + PostgreSQL)
-A backend service that allows users to track their stock/mutual-fund investments, maintain holdings, and compute portfolio returns using mock market price data.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+A backend service that allows users to track their stock/mutual-fund investments, maintain holdings, and compute portfolio returns using mock market price data.
+
 Features:
+----------
 1)Authentication
 2)Register new users
 3)Secure login (JWT Bearer token)
@@ -26,6 +28,7 @@ Prices also stored in PostgreSQL (prices table)
 Background scheduler updates DB prices every 3 hours
 
 🛢 Persistence
+---------------
 Fully integrated with PostgreSQL
 
 Models:
