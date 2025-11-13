@@ -5,8 +5,11 @@ A backend service that allows users to track their stock/mutual-fund investments
 Features:
 ----------
 1)Authentication
+
 2)Register new users
+
 3)Secure login (JWT Bearer token)
+
 4)Protected endpoints (transactions, portfolio summary)
 
 💹 Portfolio Tracking
